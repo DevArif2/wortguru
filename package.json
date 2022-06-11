@@ -1,0 +1,18 @@
+{
+  "name": "wortguru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "prepend": "^1.0.2",
+    "prompt-sync": "^4.2.0",
+    "prompts": "^2.4.2"
+  }
+}
